@@ -4,6 +4,6 @@ Ejemplos de creación de objetos JWK para obtener llaves públicas y privadas co
 
 ## JWE
 
-`authService.generateKeys()`
+```authService.generateKeys()```
 Genera las llaves públicas y privadas
 
