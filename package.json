@@ -1,0 +1,19 @@
+{
+  "name": "test_he",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caracteres_especiales.js",
+  "dependencies": {
+    "he": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-jose": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node caracteres_especiales.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
