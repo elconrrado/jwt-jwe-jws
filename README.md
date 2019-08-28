@@ -36,5 +36,3 @@ authService.decrypt(encPayload);
 // Desencripta data encriptada
 ```
 
-Genera las llaves públicas y privadas
-
