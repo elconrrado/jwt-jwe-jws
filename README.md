@@ -8,7 +8,7 @@ const authService =  new AuthService();
 authService.generateKeys();
 
 // Genera el JWK para las llaves públicas y privadas y las setea en las propiedades 
-de clase publicKey y privateKey respectivamente
+// de clase publicKey y privateKey respectivamente
 ```
 
 
