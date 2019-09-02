@@ -1,3 +1,18 @@
+## Openssl
+
+### Generate PEM
+Generar llave privada
+
+```
+	openssl genrsa -passout pass:test -out priv.key.pem 2048
+```
+
+Generar llave p�blica
+
+```
+	openssl rsa -in priv.key.pem -pubout > pub.key.pem
+```
+
 ## JWE
 
 #### Generate JWK
